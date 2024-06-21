@@ -26,7 +26,7 @@ Diagrama com os pacotes, endpoints, dependências e organização dos arquivos u
 ##
 
 
-##  Autenticação de usuários
+#  Autenticação de usuários
 
 |Requisitos|    Descrição         |
 |---------:|--------------------- |
@@ -36,17 +36,18 @@ Diagrama com os pacotes, endpoints, dependências e organização dos arquivos u
 
 **Registro de Usuário**
 na aplicação é implementada a funcionalidade de registro permitindo que somente os gerentes cadastrem novos usuários, utilizando nome de usuário e senhal. Cada usuário é identificado como cliente, vendedor ou gerente.
-*-*
+
+
 
 **Login Seguro**
 O sistema de login é seguro e os usuários podem entrar na plataforma fornecendo suas credenciais (nome de usuário/ login e senha). As credenciais são então verificadas em relação às informações armazenadas no banco de dados para permitir ou não o acesso.
 
-*-*
+
 
 **Geração de Token JWT**
 Após um login bem-sucedido, é gerado um token JWT (JSON Web Token) para o usuário autenticado. Este token contém informações sobre o usuário, como seu ID e tipo de conta.
 
-## Controle de acesso com JWT
+# Controle de acesso com JWT
 
 |Requisitos|       Descrição                |
 |---------:|--------------------------------|
@@ -59,12 +60,12 @@ Após um login bem-sucedido, é gerado um token JWT (JSON Web Token) para o usu�
 
 Foram criados os endpoints para registro e login dos usuários, de modo que as senhas são armazenadas de forma segura utilizando hashing.
 
-*-*
+
 
 **Geração e validação de tokens**
 Foi implementada a geração de tokens JWT, contendo informações relevantes do usuário e a lógica de validação para esses tokens em cada requisição protegida.
 
-*-*
+
 
 
 
