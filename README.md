@@ -98,13 +98,16 @@ A aplicação implementa uma lógica de controle de acesso nos endpoints, garant
 
 ## Prints do Projeto
 
-![](xxxxxx)
+![](https://github.com/Day-Ketelin/Prova-AV2---40/blob/main/Imagens/Login.png)
 
 ###
 
-![](xxxxxx)
+![](https://github.com/Day-Ketelin/Prova-AV2---40/blob/main/Imagens/SecurityConfig.png)
 
-#
+###
+
+
+![](https://github.com/Day-Ketelin/Prova-AV2---40/blob/main/Imagens/JwtUtil.png)
 
 
 
