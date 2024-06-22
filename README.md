@@ -42,7 +42,7 @@ Diagrama com os pacotes, endpoints, dependências e organização dos arquivos u
 ##
 
 
-# Funcionamento da aplicação e verificação das requisições:
+
 
 #  Autenticação de usuários
 
@@ -107,6 +107,8 @@ A aplicação implementa uma lógica de controle de acesso nos endpoints, garant
 #
 
 
+# Funcionamento da aplicação e verificação das requisições:
+![](https://github.com/Day-Ketelin/Prova-AV2---40/blob/main/Imagens/Prova%20-%20AV2%20AWS.gif)
 
 
 ### Linguagem utilizada: JAVA
