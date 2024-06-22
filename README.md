@@ -1,4 +1,4 @@
-# Prova-AV2---40
+# Prova AV2 - Arquitetura de Aplicações Web
 
 
 Projeto acadêmico criado para avaliação junto à disciplina de Arquitetura de Aplicações Web - professor João Paulo Aramuni,do Centro Universitário Newton Paiva, produzido em Java e com a compilação pela plataforma IntelliJ IDEA.
@@ -48,6 +48,16 @@ O sistema de login é seguro e os usuários podem entrar na plataforma fornecend
 
 **Geração de Token JWT**
 Após um login bem-sucedido, é gerado um token JWT (JSON Web Token) para o usuário autenticado. Este token contém informações sobre o usuário, como seu ID e tipo de conta.
+#
+
+
+
+![](https://github.com/Day-Ketelin/Prova-AV2---40/blob/main/Imagens/Diagrama%20de%20Endpoins.png)
+
+**URL Figma:** *<[Diagrama de Endpoints](https://www.figma.com/board/YtcEhSL5M6Og2091o1ufQK/Endpoints?node-id=0-1&t=GYceFaRXLOgscSRI-0)>*
+
+
+#
 
 # Controle de acesso com JWT
 
