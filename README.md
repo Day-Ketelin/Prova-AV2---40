@@ -1,3 +1,6 @@
+
+
+
 # Prova AV2 - Arquitetura de Aplicações Web
 
 
@@ -6,10 +9,23 @@ Projeto acadêmico criado para avaliação junto à disciplina de Arquitetura de
 * Sistema de autenticação e autorização de usuários utilizando Java, MongoDB e JWT (JSON Web Token).
 
 
+
+
+
 # Objetivo
 
 Sistema desenvolvido para autenticação e autorização em uma aplicação de e-commerce, garantindo que apenas usuários autenticados e autorizados possuem acesso a determinados recursos da aplicação.
 
+#
+
+**Github:** **[@Day-Ketelin](https://github.com/Day-Ketelin)**
+
+**Email:** **dayaneketelin@hotmail.com**
+
+**Linkked-in:** **[Dayane Ketelin](https://www.linkedin.com/in/dayane-ketelin)**
+
+
+#
 
 ***Link do Projeto:*** **<https://github.com/Day-Ketelin/Prova-AV2---40>**
 #
@@ -21,7 +37,7 @@ Diagrama com os pacotes, endpoints, dependências e organização dos arquivos u
 
 ![](https://github.com/Day-Ketelin/Prova-AV2---40/blob/main/Imagens/Diagrama.png)
 
-**URL Figma:** *<[Diagrama AV2 - AAW](https://www.figma.com/board/6a6TMNpSDZcErRFS480ql0/Diagrama-AV2---AAW?node-id=0-1&t=N7Ruq6qPl7XoQH9K-0)>*
+**URL Figma:** *[Diagrama AV2 - AAW](https://www.figma.com/board/6a6TMNpSDZcErRFS480ql0/Diagrama-AV2---AAW?node-id=0-1&t=N7Ruq6qPl7XoQH9K-0)*
 
 ##
 
@@ -54,7 +70,7 @@ Após um login bem-sucedido, é gerado um token JWT (JSON Web Token) para o usu�
 
 ![](https://github.com/Day-Ketelin/Prova-AV2---40/blob/main/Imagens/Diagrama%20de%20Endpoins.png)
 
-**URL Figma:** *<[Diagrama de Endpoints](https://www.figma.com/board/YtcEhSL5M6Og2091o1ufQK/Endpoints?node-id=0-1&t=GYceFaRXLOgscSRI-0)>*
+**URL Figma:** *[Diagrama de Endpoints](https://www.figma.com/board/YtcEhSL5M6Og2091o1ufQK/Endpoints?node-id=0-1&t=GYceFaRXLOgscSRI-0)*
 
 
 #
