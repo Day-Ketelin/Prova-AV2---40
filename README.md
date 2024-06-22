@@ -19,12 +19,14 @@ Sistema desenvolvido para autenticação e autorização em uma aplicação de e
 
 Diagrama com os pacotes, endpoints, dependências e organização dos arquivos utilizados na construção do projeto, de modo a prover maior segurança e praticidade dos métodos utilizados:
 
-![](XXXXXXXX)
+![](https://github.com/Day-Ketelin/Prova-AV2---40/blob/main/Imagens/Diagrama.png)
 
-**URL Figma:** *<XXXXXXXX>*
+**URL Figma:** *<[Diagrama AV2 - AAW](https://www.figma.com/board/6a6TMNpSDZcErRFS480ql0/Diagrama-AV2---AAW?node-id=0-1&t=N7Ruq6qPl7XoQH9K-0)>*
 
 ##
 
+
+# Funcionamento da aplicação e verificação das requisições:
 
 #  Autenticação de usuários
 
@@ -78,9 +80,9 @@ A aplicação implementa uma lógica de controle de acesso nos endpoints, garant
 
 #
 
-# Funcionamento da aplicação e verificação das requisições:
-![](XXXXXXX)
-*
+
+
+
 ### Linguagem utilizada: JAVA
 
 ---
